@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MaksymYarosh
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Computer Science
+- 👀 I’m interested in building, creating, developing, learning, exploring
+- 🌱 I’m currently learning Computer Science in Cleveland State University
 - 💞️ I’m looking to collaborate on Software Engineering
 - 📫 How to reach me ... seek and you'll find
 - ⚡ Fun fact: I love
